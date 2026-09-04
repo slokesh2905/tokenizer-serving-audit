@@ -11,8 +11,9 @@ present in the corpus source used here (see below) — checked directly against 
 108-language file listing of `christos-c/bible-corpus`, confirmed absent (would sort
 between "Tagalog.xml" and "Telugu.xml"; nothing there). Telugu was available and is
 substituted. This is a data-availability decision, not a preference — flagged here and in
-`NOTEBOOK.md` (Day 3) rather than made silently. If a Tamil-inclusive parallel source is
-found later, the corpus can be rebuilt from a different source with the same pipeline.
+`NOTEBOOK.md` (Day 3) rather than made silently. Reviewed directly with the user
+(including the option of sourcing a Tamil-inclusive parallel corpus instead); confirmed
+keeping Telugu as-is rather than reworking the corpus (see `NOTEBOOK.md`, 2026-09-04).
 
 ## Source and why
 

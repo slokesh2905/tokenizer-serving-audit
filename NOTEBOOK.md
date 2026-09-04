@@ -253,3 +253,11 @@ This closes out active work. Remaining before actual submission: the user should
 the Tamil->Telugu substitution is acceptable (flagged repeatedly throughout, not a call
 AI can make final), and do a last read-through of the four write-ups
 (A2_AUDIT/A3_AUDIT/A4_RECOMMENDATION/partC memo) before the live defense.
+
+## 2026-09-04 -- Tamil->Telugu substitution confirmed by user
+
+Discussed the Tamil->Telugu substitution (see Day 3 entry and partA/SOURCE.md) with the
+user directly, including the option of searching for an alternate Tamil-inclusive parallel
+corpus. User confirmed keeping Telugu as-is -- the substitution is accepted as a documented
+data-availability constraint, not a gap to fix before submission. No further corpus rework
+planned.
